@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\C# Things\Automat_de_vanzari\Automat_de_vanzari\bin\Debug\Automat_de_vanzari.exe.config
+C:\Users\user\Desktop\C# Things\Automat_de_vanzari\Automat_de_vanzari\bin\Debug\Automat_de_vanzari.exe
+C:\Users\user\Desktop\C# Things\Automat_de_vanzari\Automat_de_vanzari\bin\Debug\Automat_de_vanzari.pdb
+C:\Users\user\Desktop\C# Things\Automat_de_vanzari\Automat_de_vanzari\obj\Debug\Automat_de_vanzari.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Things\Automat_de_vanzari\Automat_de_vanzari\obj\Debug\Automat_de_vanzari.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C# Things\Automat_de_vanzari\Automat_de_vanzari\obj\Debug\Automat_de_vanzari.Form1.resources
+C:\Users\user\Desktop\C# Things\Automat_de_vanzari\Automat_de_vanzari\obj\Debug\Automat_de_vanzari.Properties.Resources.resources
+C:\Users\user\Desktop\C# Things\Automat_de_vanzari\Automat_de_vanzari\obj\Debug\Automat_de_vanzari.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C# Things\Automat_de_vanzari\Automat_de_vanzari\obj\Debug\Automat_de_vanzari.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Things\Automat_de_vanzari\Automat_de_vanzari\obj\Debug\Automat_de_vanzari.exe
+C:\Users\user\Desktop\C# Things\Automat_de_vanzari\Automat_de_vanzari\obj\Debug\Automat_de_vanzari.pdb
